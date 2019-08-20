@@ -1,6 +1,4 @@
 # Predicting-Santander-clients-satisfaction-Python
-This project was created as Final-Project-1 in course Big Data Real-Time Analytics With Python and Spark (Data Science Academy)
-
 Projeto Final 1 Desenvolvido na Formação Cientista de Dados da Data Science Academy.
 
 A satisfação do cliente é uma medida fundamental de sucesso. Clientes insatisfeitos cancelam seus serviços e raramente expressam sua insatisfação antes
