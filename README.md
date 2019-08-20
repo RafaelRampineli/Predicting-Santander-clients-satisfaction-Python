@@ -1,4 +1,4 @@
-# Predicting-Santander-clients-satisfaction-Python
+# Predicting-Santander-customers-satisfaction-Python
 Projeto Final 1 Desenvolvido na Formação Cientista de Dados da Data Science Academy.
 
 A satisfação do cliente é uma medida fundamental de sucesso. Clientes insatisfeitos cancelam seus serviços e raramente expressam sua insatisfação antes
